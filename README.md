@@ -1,7 +1,7 @@
 # 0x16. C - Simple Shell
 
 
-This project is an implementation of the shell created for the C code at **ALX **.
+This project is an implementation of the shell created for the C code at **ALX ** as per the Software Engimeering Programme
 
 ## Table of contents :clipboard:
 
